@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# It may be necessary to adjust the path!
+
 ID=$(/usr/bin/pidof g13d)
 
 if [ "$ID" ] 
