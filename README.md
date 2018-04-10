@@ -10,9 +10,13 @@ Created 20.2.2015 by Marc-André Tragé
 
 ### G13 Display Previews
 ![DOOM](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_doom.png)
+![DOOM](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_doom_skull.png)
+
 ![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_wow.png)
 ![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13b_wow.png)
+
 ![SR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_saints_row.png)
+
 ![OS](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_system.png)
 
 ## The following is required:
