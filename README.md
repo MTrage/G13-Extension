@@ -2,11 +2,12 @@
 Created 20.2.2015 by Marc-André Tragé
 
 ### Extension for G13 Linux driver
-- [x] DOOM (4 (2016)) Script & Logo
-- [x] Road Redemption
-- [x] Saints Row
-- [x] World of Warcraft Script & Logo
-- [x] Linux OS Script & Logo
+- [x] DOOM (4 (2016)) – Script & Logo
+- [x] Road Redemption – Script & Logo
+- [x] Saints Row – Script & Logo
+- [x] Wolfenstein – Script & Logo
+- [x] World of Warcraft – Script & Logo
+- [x] Linux OS – Script & Logo
 - [x] With control function (kill)
 
 ### G13 Display Previews
@@ -16,6 +17,9 @@ Created 20.2.2015 by Marc-André Tragé
 ![RR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_road_redemption.png)
 
 ![SR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_saints_row.png)
+
+![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_wolfenstein.png)
+![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13b_wolfenstein.png)
 
 ![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_wow.png)
 ![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13b_wow.png)
