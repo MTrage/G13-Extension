@@ -66,3 +66,6 @@ Actually, it is very easy to create your own logos for the G13, if you are Linux
  - Create another g13_XYZ.bind file for the new task
  - Start your new G13_XYZ.sh script
  
+## Workaround Userspace driver for the G13
+In some cases, lib-XYZ is not found (compiling or system update).
+For this, it is still sufficient to create a link with "ln" to the new one from the old library.
