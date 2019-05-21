@@ -20,6 +20,7 @@ Created 20.2.2015 by Marc-André Tragé
 ![RR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_road_redemption.png)
 
 ![SR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_saints_row.png)
+
 ![SR](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_mad_max.png)
 
 ![WOW](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_wolfenstein.png)
