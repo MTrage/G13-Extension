@@ -2,16 +2,17 @@
 Created 20.2.2015 by Marc-André Tragé
 
 ### Extension for G13 Linux driver
-- [x] Cyberpunk 2077 – Script & Logo
-- [x] DOOM (4 (2016)) – Script & Logo
-- [x] Road Redemption – Script & Logo
-- [x] Saints Row – Script & Logo
-- [x] MAD MAX – Script & Logo
-- [x] Wolfenstein – Script & Logo
-- [x] World of Warcraft – Script & Logo
-- [x] Warframe – Script & Logo
-- [x] Universe Sandbox 2
-- [x] Linux OS – Script & Logo
+- [x] Cyberpunk 2077        – Script & Logo
+- [x] DOOM (4 (2016))       – Script & Logo
+- [x] Fallout               – Script & Logo
+- [x] Road Redemption       – Script & Logo
+- [x] Saints Row            – Script & Logo
+- [x] MAD MAX               – Script & Logo
+- [x] Wolfenstein           – Script & Logo
+- [x] World of Warcraft     – Script & Logo
+- [x] Warframe              – Script & Logo
+- [x] Universe Sandbox 2    – Script & Logo
+- [x] Linux OS              – Script & Logo
 - [x] With control function (kill)
 
 ### G13 Display Previews
