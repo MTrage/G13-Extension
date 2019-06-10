@@ -2,6 +2,7 @@
 Created 20.2.2015 by Marc-André Tragé
 
 ### Extension for G13 Linux driver
+- [x] Cyberpunk 2077 – Script & Logo
 - [x] DOOM (4 (2016)) – Script & Logo
 - [x] Road Redemption – Script & Logo
 - [x] Saints Row – Script & Logo
@@ -14,6 +15,8 @@ Created 20.2.2015 by Marc-André Tragé
 - [x] With control function (kill)
 
 ### G13 Display Previews
+![Cyberpunk2077](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_cyberpunk2077.png)
+
 ![DOOM](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_doom.png)
 ![DOOM](https://github.com/MTrage/G13-Extension/blob/master/Display-Preview/g13_doom_skull.png)
 
